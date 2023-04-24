@@ -5,6 +5,8 @@
     <br> 웹 개발은 물론 앱 개발과 다른 개발 영역에도 관심 있습니다! </p>
   
   <h2>:computer: Skills </h2>
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot"/>
-  
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black"/>
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JAVA-B200ED?style=flat&logoColor=black"/>
 </div>
